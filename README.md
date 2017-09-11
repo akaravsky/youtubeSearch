@@ -12,4 +12,4 @@
 
 ### Try it online
 
-http://akaravsky.github.io/youtubesearch
+http://akaravsky.github.io/youtubeSearch
